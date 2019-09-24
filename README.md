@@ -1,2 +1,4 @@
-# Mixpanel---JQL---SavYour
-All JQL codes build for savyour
+# Mixpanel - JQL
+Mixpanel JQL code for different analysis questions.
+
+Note: Update the events according to mixpanel implementation.  
