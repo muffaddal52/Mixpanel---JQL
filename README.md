@@ -2,9 +2,9 @@
 JQL codes to get from Mixpanel.
 
 ---
-### Files Description 
+## Files Description 
 
-PurchasedDetails_dealavail.js
+#### PurchasedDetails_dealavail.js
 Gives cheque size and other information of purchased event (in this case dealAvailed event).
 
 #### Churned Due to Notification.js
