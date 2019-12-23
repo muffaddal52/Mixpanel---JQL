@@ -4,6 +4,8 @@ JQL codes to get from Mixpanel.
 ---
 ### Files Description 
 
+PurchasedDetails_dealavail.js
+Gives cheque size and other information of purchased event (in this case dealAvailed event).
 
 #### Churned Due to Notification.js
 Gives number of users who churned after receiving mobile app notifications. It helps to understand the what percentage of user left the application because of the notification they were recieving.**  
